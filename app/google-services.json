@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019588911361",
+    "firebase_url": "https://ventanagame.firebaseio.com",
+    "project_id": "ventanagame",
+    "storage_bucket": "ventanagame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019588911361:android:cb74150c1c03ba7b",
+        "android_client_info": {
+          "package_name": "com.trashkat.ventanas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019588911361-as8bgm1t39ddmm043kku3hsufijntlp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trashkat.ventanas",
+            "certificate_hash": "d5a5dfd7c414dbdeac1b0bb971ef82b8744d1cb4"
+          }
+        },
+        {
+          "client_id": "1019588911361-te29rcdhlqh8uvelva8n89143gc6rsrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDslzWOUw659JMAFDFvm7yTACWVISowlpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019588911361-te29rcdhlqh8uvelva8n89143gc6rsrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
